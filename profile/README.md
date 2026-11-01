@@ -1,9 +1,7 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/rise-of-digital-logo-ana-turkuaz.svg">
-    <img alt="Rise of Digital" src="./assets/rise-of-digital-logo-ana-derin-turkuaz.svg" width="260">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Rise of Digital: 3D websites, custom software, AI integration, animation and 3D design" src="./assets/header-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <b>The brush turned into pixels; the imagination remained unchanged.</b><br>
